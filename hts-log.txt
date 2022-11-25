@@ -1,0 +1,105 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Nov 2022 10:41:04 at https://blogosphere.cmsmasters.net/interior/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blogosphere.cmsmasters.net/interior/ -O1 "C:\My Web Sites\blogoshere_interior" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:42:05	Error: 	"Forbidden" (403) at link https://blogosphere.cmsmasters.net/interior/xmlrpc.php (from https://blogosphere.cmsmasters.net/interior/)
+10:42:17	Error: 	"Forbidden" (403) at link https://blogosphere.cmsmasters.net/interior/xmlrpc.php?rsd (from https://blogosphere.cmsmasters.net/interior/)
+10:44:41	Error: 	"Bad Request" (400) at link https://blogosphere.cmsmasters.net/interior/wp-admin/admin-ajax.php (from https://blogosphere.cmsmasters.net/interior/)
+10:44:45	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/interior/wp-content/themes/blogosphere/img/ilightbox/closedhand.cur
+10:44:45	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=8946
+10:44:45	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=8946 to https://blogosphere.cmsmasters.net/interior/about-me/
+10:44:45	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13392
+10:44:45	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13392 to https://blogosphere.cmsmasters.net/interior/2017/09/01/tactics-for-avoiding-the-comparison-trap/
+10:45:15	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=10736
+10:45:15	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=10736 to https://blogosphere.cmsmasters.net/interior/2017/09/22/world-of-design-10-ways-to-live-in-harmony-with-housemates/
+10:45:15	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=106
+10:45:15	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=106 to https://blogosphere.cmsmasters.net/interior/2017/09/08/colour-why-you-should-paint-your-walls-in-more-than-one-hue/
+10:45:19	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13397
+10:45:19	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13397 to https://blogosphere.cmsmasters.net/interior/2017/09/03/how-to-be-more-creative/
+10:45:19	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13402
+10:45:19	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13402 to https://blogosphere.cmsmasters.net/interior/2017/09/04/husky-rescue-new-light-of-tomorrow/
+10:45:19	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=882
+10:45:19	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=882 to https://blogosphere.cmsmasters.net/interior/standard-blog/
+10:45:19	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=887
+10:45:19	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=887 to https://blogosphere.cmsmasters.net/interior/masonry-blog/
+10:45:25	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=889
+10:45:25	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=889 to https://blogosphere.cmsmasters.net/interior/timeline-blog/
+10:45:25	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13382
+10:45:25	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13382 to https://blogosphere.cmsmasters.net/interior/puzzle-blog/
+10:45:25	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13895
+10:45:25	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13895 to https://blogosphere.cmsmasters.net/interior/side-blog/
+10:45:25	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=74
+10:45:25	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=74 to https://blogosphere.cmsmasters.net/interior/grid-blog/
+10:46:33	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=11986
+10:46:33	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=11986 to https://blogosphere.cmsmasters.net/interior/typography-2/
+10:46:33	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=11850
+10:46:33	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=11850 to https://blogosphere.cmsmasters.net/interior/contacts/
+10:46:33	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=285
+10:46:33	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=285 to https://blogosphere.cmsmasters.net/interior/2017/09/28/tour-this-6-bedroom-boho-paradise/
+10:46:33	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=103
+10:46:33	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=103 to https://blogosphere.cmsmasters.net/interior/2017/09/26/just-enough-boho-thanks-to-the-citizenry/
+10:46:33	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13095
+10:46:33	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13095 to https://blogosphere.cmsmasters.net/interior/2017/09/24/room-refresh-no-remodeling-required/
+10:46:33	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=2938
+10:46:33	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=2938 to https://blogosphere.cmsmasters.net/interior/2017/09/24/my-small-living-room-makeover-for-west-elm/
+10:46:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=87
+10:46:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=87 to https://blogosphere.cmsmasters.net/interior/2017/09/20/inspired-simplicity-in-this-fashion-designers-home/
+10:46:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13101
+10:46:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13101 to https://blogosphere.cmsmasters.net/interior/2017/09/18/interior-design-best-design-ideas-for-split-level-homes/
+10:46:37	Error: 	"Not Found" (404) at link https://blogosphere.cmsmasters.net/interior/2/ (from https://blogosphere.cmsmasters.net/interior/page/2/)
+10:46:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/page/1/
+10:46:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/page/1/ to https://blogosphere.cmsmasters.net/interior/
+10:46:37	Error: 	"Not Found" (404) at link https://blogosphere.cmsmasters.net/interior/3/ (from https://blogosphere.cmsmasters.net/interior/page/3/)
+10:46:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=8036
+10:46:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=8036 to https://blogosphere.cmsmasters.net/interior/2017/09/10/styling-10-easy-ideas-for-improving-a-period-fireplace/
+10:46:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13099
+10:46:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13099 to https://blogosphere.cmsmasters.net/interior/2017/09/13/fun-houzz-10-reasons-to-ditch-perfectionism-in-your-home/
+10:46:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=13097
+10:46:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=13097 to https://blogosphere.cmsmasters.net/interior/2017/09/15/7-wonderful-places-you-will-never-get-to-visit/
+10:46:37	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/interior/wp-content/plugins/revslider/public/assets/css/openhand.cur
+10:46:37	Warning: 	File not parsed, looks like binary: https://blogosphere.cmsmasters.net/interior/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+10:46:37	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=613
+10:46:37	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=613 to https://blogosphere.cmsmasters.net/interior/project/minimalist-living-room/
+10:46:42	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=619
+10:46:42	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=619 to https://blogosphere.cmsmasters.net/interior/project/cozy-home-library/
+10:46:42	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=913
+10:46:42	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=913 to https://blogosphere.cmsmasters.net/interior/project/living-room-furniture/
+10:46:42	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=611
+10:46:42	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=611 to https://blogosphere.cmsmasters.net/interior/project/kitchen-under-stairs/
+10:46:46	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=1155
+10:46:46	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=1155 to https://blogosphere.cmsmasters.net/interior/project/office-interior/
+10:46:46	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=9410
+10:46:46	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=9410 to https://blogosphere.cmsmasters.net/interior/project/the-glass-house/
+10:46:46	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=85
+10:46:46	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=85 to https://blogosphere.cmsmasters.net/interior/2017/09/05/kitchen-ideas-11-neat-ways-to-store-your-small-appliances/
+10:46:46	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/masonry-blog/page/1/
+10:46:46	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/masonry-blog/page/1/ to https://blogosphere.cmsmasters.net/interior/masonry-blog/
+10:46:46	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/side-blog/page/1/
+10:46:46	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/side-blog/page/1/ to https://blogosphere.cmsmasters.net/interior/side-blog/
+10:46:47	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=1665
+10:46:47	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=1665 to https://blogosphere.cmsmasters.net/interior/product/camera/
+10:46:47	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=3840
+10:46:47	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=3840 to https://blogosphere.cmsmasters.net/interior/cart/
+10:46:47	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=1667
+10:46:47	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=1667 to https://blogosphere.cmsmasters.net/interior/product/indoor-flower/
+10:46:48	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=1666
+10:46:48	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=1666 to https://blogosphere.cmsmasters.net/interior/product/modern-glasses/
+10:46:49	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=1668
+10:46:49	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=1668 to https://blogosphere.cmsmasters.net/interior/product/spherical-vase/
+10:46:51	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=1664
+10:46:51	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=1664 to https://blogosphere.cmsmasters.net/interior/product/style-set/
+10:46:52	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=1663
+10:46:52	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=1663 to https://blogosphere.cmsmasters.net/interior/product/watch/
+10:46:52	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/author/cmsmasters/page/1/
+10:46:52	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/author/cmsmasters/page/1/ to https://blogosphere.cmsmasters.net/interior/author/cmsmasters/
+10:46:52	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=8414
+10:46:52	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=8414 to https://blogosphere.cmsmasters.net/interior/project/living-room-large-window/
+10:46:52	Warning: 	Moved Permanently for https://blogosphere.cmsmasters.net/interior/?p=606
+10:46:52	Warning: 	File has moved from https://blogosphere.cmsmasters.net/interior/?p=606 to https://blogosphere.cmsmasters.net/interior/project/perfect-reading-room/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 50 seconds : 656 links scanned, 607 files written (26464948 bytes overall) [14975169 bytes received at 42786 bytes/sec], 14945705 bytes transferred using HTTP compression in 322 files, ratio 20%, 14.2 requests per connection
+(5 errors, 89 warnings, 0 messages)
